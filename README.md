@@ -1,3 +1,5 @@
+Note: This is a fork of the original repo as I no longer have access to my university email. I wanted to include it in my personal profile as I did quite a lot of work on it at the time. My univeristy username was sp990.
+
 # YoutubeTestingTool
 
 This is a tool made for a university project.<br /><br />
